@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [TestDevicePcb.PrjPcb]
+   Generated File[TestDevicePcb.GTO]
+   Generated File[TestDevicePcb.GTP]
+   Generated File[TestDevicePcb.GTS]
+   Generated File[TestDevicePcb.GTL]
+   Generated File[TestDevicePcb.G1]
+   Generated File[TestDevicePcb.G2]
+   Generated File[TestDevicePcb.GBL]
+   Generated File[TestDevicePcb.GBS]
+   Generated File[TestDevicePcb.GBP]
+   Generated File[TestDevicePcb.GBO]
+   Generated File[TestDevicePcb.GM1]
+   Generated File[TestDevicePcb.GM5]
+   Generated File[TestDevicePcb.GM6]
+   Generated File[TestDevicePcb.GM13]
+   Generated File[TestDevicePcb.GM14]
+   Generated File[TestDevicePcb.GM15]
+   Generated File[TestDevicePcb.GM16]
+   Generated File[TestDevicePcb.GKO]
+   Generated File[TestDevicePcb.GPT]
+   Generated File[TestDevicePcb.GPB]
+   Generated File[TestDevicePcb.RUL]
+   Generated File[TestDevicePcb.EXTREP]
+   Generated File[TestDevicePcb.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 15:21:31 On 25.09.2026

@@ -1,0 +1,353 @@
+*************************************************************
+FileName = TestDevicePcb.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer 1
+      File : TestDevicePcb.GBL
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D40
+    D41
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : TestDevicePcb.GPB
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : TestDevicePcb.GPT
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D24
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : TestDevicePcb.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : TestDevicePcb.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : TestDevicePcb.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : TestDevicePcb.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : TestDevicePcb.G2
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D44
+    D47
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : TestDevicePcb.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : TestDevicePcb.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : TestDevicePcb.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : TestDevicePcb.GM14
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : TestDevicePcb.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : TestDevicePcb.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : TestDevicePcb.G1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D43
+    D44
+    D46
+    D47
+    D48
+    D49
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Top Layer 1
+      File : TestDevicePcb.GTL
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D24
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : TestDevicePcb.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : TestDevicePcb.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+    D11
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : TestDevicePcb.GM6
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : TestDevicePcb.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
